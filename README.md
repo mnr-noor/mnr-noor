@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eurekaa</h1>
+<h1 align="center">Hi there 👋, I'm Eurekaa</h1>
 <h3 align="center">I'm not antisocial, I'm just debugging.</h3>
 
 - 👨‍💻 I started coding **in 2022**
