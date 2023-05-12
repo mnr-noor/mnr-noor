@@ -7,8 +7,6 @@
 
 - 🏊‍♀️ I'm a professional **swimmer**
 
-- 💞 I love **reading and writing**
-
 - ⚡ Fun fact **the only thing that can make me cry is a bug**
 
 - 🌍 I'm from **Algeria 🇩🇿**
