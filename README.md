@@ -3,9 +3,7 @@
 
 - 👨‍💻 I started coding **in 2022**
 
-- 🌱 I’m currently learning **React, Flutter**
-
-- 🏊‍♀️ I'm a professional **swimmer**
+- 🌱 I’m currently learning **Next.js , React **
 
 - ⚡ Fun fact **the only thing that can make me cry is a bug**
 
