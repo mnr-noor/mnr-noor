@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnr-noor&label=Profile%20views&color=0e75b6&style=flat" alt="mnr-noor" /> </p>
 
-- 🔭 I’m currently working on **'Bio Express'**
+- 🔭 I’m currently working on **'To-do'**
 
-- 🌱 I’m currently learning **React , Next js , Supabase**
+- 🌱 I’m currently learning **React , Next js , Supabase, React Native**
 
 - 📫 How to reach me **mansournourinfo@gmail.com**
 
