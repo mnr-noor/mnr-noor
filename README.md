@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maki</h1>
+<h1 align="center">Hi 👋, I'm Noor</h1>
 <h3 align="center">I'm not antisocial, I'm just debugging.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnr-noor&label=Profile%20views&color=0e75b6&style=flat" alt="mnr-noor" /> </p>
